@@ -10,7 +10,7 @@ The following requirements are **mandatory** to pass the exercise:
 
 ### Project Setup
 
-1. Accept the GitHub Classroom assignment [TODO: Add GH Classroom Link](...)
+1. Accept the GitHub Classroom assignment [https://classroom.github.com/a/otvNg9_r](https://classroom.github.com/a/otvNg9_r)
 2. Follow the necessary steps to run the starter code on your computer
 3. Copy the `Sheet_Fruits_Panel.png` image file to the appropriate folder to make it accessible to your code
 

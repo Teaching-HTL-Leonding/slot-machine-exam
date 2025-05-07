@@ -10,7 +10,7 @@ Die folgenden Anforderungen sind **verpflichtend**, um die Übung zu bestehen:
 
 ### Projekt-Setup
 
-1. Akzeptieren Sie die GitHub Classroom-Aufgabe [TODO: GH Classroom Link hinzufügen](...)
+1. Akzeptieren Sie die GitHub Classroom-Aufgabe [https://classroom.github.com/a/otvNg9_r](https://classroom.github.com/a/otvNg9_r)
 2. Führen Sie die notwendigen Schritte durch, um den Starter-Code auf Ihrem Computer auszuführen
 3. Kopieren Sie die Bilddatei `Sheet_Fruits_Panel.png` in den entsprechenden Ordner, damit Ihr Code darauf zugreifen kann
 
